@@ -28,8 +28,6 @@ To complete Part I, fulfill the following requirements:
 * data.js file
 3. Link all of your files correctly.
 
----
-
 ### Part II Create Data
 
 To complete Part II, fulfill the following requirements:
