@@ -2,33 +2,65 @@ const data = [
     {
         artist: 'LAUV',
         genre: 'Pop',
-        song: 'Paris in the rain',
-        album image: 
-    }
+        song: 'Paris in the rain'
+         
+    },
+    {
+        artist: 'Bazzi',
+        genre: 'Pop',
+        song: 'Mine'
+    
+    },
+    {
+        artist: '5SOS',
+        genre:'Pop',
+        song: 'Youngblood '
+        
+    },
+    {
+        artist: 'ARIZONA',
+        genre:'Pop',
+        song:'Summer Days'
+        
+    },
+    {
+         artist: 'anne-Marie',
+         genre:'Pop',
+         song:'2002'
+         
+
+    },
+    {
+        artist: 'maroon 5',
+        genre:'Pop',
+        song:'Girls Like You'
+        
+    },
     {
         artist: 'Rich Brian',
         genre: 'hip-hop/rap',
-        song: 'cold',
-        albumImage:
-    }
-    {
-        artist: '88rising',
-        genre: 'R&B/soul',
-        song: 'Plans',
-        album image: 
-    }
-    {
-        artist: 'Shaun',
-        genre: 'electronic',
-        song: 'Way Back Home',
-        album image: 
-    }
-    {
-      artist: 'All Time Low',
-        genre: 'Alternative',
-        song: 'Great Escape',
-        album image: 
-    }
+        song: 'cold'
+        
+    },
+   {
+       artist: 'J. Cole',
+       genre:'hip-hop/rap',
+       song: 'Kevins heart'
+       
+   },
+   {
+       artist:'Russ',
+       genre:'hip-hop/rap',
+       song: 'Pull the Trigger'
+       
+   },
+   {
+       artist: 'Khary & Lege Kale',
+       genre: 'hip-hop/rap',
+       song: 'Fujiko'
+       
+   },
+   {
 
-
+   }
 ]
